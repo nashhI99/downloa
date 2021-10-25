@@ -1,0 +1,244 @@
++-------------+-------------------------------+--------------------------------+-------------------------------------+
+| ID          | Username                      | Full Name                      | Email                               |
++-------------+-------------------------------+--------------------------------+-------------------------------------+
+| 1498890913  | plba_food                     | Partage Les Bonnes Adresses    | contact@plbafrance.fr               |
+| 417263379   | cookbae_                      | Sylvie Bae - Food Content      | cookbae.sylvie@gmail.com            |
+| 45241183844 | lachanvreparis                | La Chanvré - CBD PARIS         | contact@lachanvreparis.com          |
+| 274200926   | lozvassallo                   | Lozvassallo|Minimal streetsyle | lozvassallo@gmail.com               |
+| 9726154233  | 2ka_binks_officiel            | La 2KA ✪                       | 2kaabinks@gmail.com                 |
+| 304532072   | maureen.l.l                   | ❤️Maureen ❤️☜´                 | maureenl.booking@gmail.com          |
+| 4344544096  | princeamineofficial           | Prince 👑 Amine                 | redrebelprods@gmail.com             |
+| 1395862138  | lilbaby                       | The kiDD                       | lilbaby4pf@gmail.com                |
+| 38922771    | kim_kimykimy                  | 𝐊𝐈𝐌                            | kim.bookingofficiel@gmail.com       |
+| 2175767416  | heisrema                      | REMA                           | rema@jonzingworld.com               |
+| 4217078472  | minnafashion_official         | | MINNA FASHION HOUSE |        | info@minnadresses.com               |
+| 3406461594  | shimmya__                     | SHIMMYA                        | shimmya.pro@gmail.com               |
+| 3960417591  | docteurchristellesantiniparis | Chirurgie esthetique Paris16🇫🇷 | cabinet@dr-santini.com              |
+| 9026293306  | nostylistsociety              | NoStylistSociety. ®            | nostylistsociety@gmail.com          |
+| 44803162    | lyronnraheem                  | ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    LYRONN RAHEEM ™  | lyronn.powermusic@yahoo.fr          |
+| 55175609    | ahmed_sylla                   | Ahmed Sylla                    | contact@ahmed-sylla.fr              |
+| 1721579912  | tootiredtobecrazy             | Too Tired To Be Crazy          | press@daddyissuesla.com             |
+| 8309126107  | diyagoldenhairrouen           | Diya Golden Hair Rouen®️       | diyagoldenhair@gmail.com            |
+| 277101772   | stefflondon                   | ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀👑DON👑 V-IV        | steff@54ldn.com                     |
+| 698948661   | reskoscult_                   | RESKO SCULT                    | holistik.rsk@gmail.com              |
+| 200753507   | yo4real                       | Yo4Real                        | yohan@soeuretteproductions.com      |
+| 321753719   | hiroofficiel                  | Hiro 🇨🇩                        | bookinghiro@millesimemusik.com      |
+| 26711662    | ashleykehoe09                 | ASHLEY KEHOE                   | ashleykehoe09@hotmail.com           |
+| 1645807208  | habituetoi                    | Habi 🇹🇬🇬🇭                      | habituetoi@soeuretteproductions.com |
+| 1421951775  | lauremakeupart                | Certifed MUA & Hairstylist     | lauremakeupart@gmail.com            |
+| 14736584    | isaiah_denzel                 | STYLISME RELOOKING BEARDMAN    | denzelofficiel@gmail.com            |
+| 356026429   | bobards.producer              | Bobards 🎸                      | arno489@hotmail.com                 |
+| 245293889   | thamakeyy                     | 👑QUEEN THAMAKEY👑               | thamya-prod@hotmail.fr              |
+| 1734627615  | ferregola_lepadre             | Ferre Gola Official            | ferregola.booking@gmail.com         |
+| 4148065348  | mickaelguirand                | Mickael Guirand 🇭🇹             | vaybnation@gmail.com                |
+| 2221798450  | dmo.punch                     | Alors Chacal Ca Gaz ?          | dmopunch@gmail.com                  |
+| 1317476214  | bgrzmusic                     | BGRZ [Bangerz]                 | bgrzmike@gmail.com                  |
+| 21380064    | sassfwi                       | Sass From West Indies 🌺        | sassfwi@gmail.com                   |
+| 355707955   | dj_whyne                      | DJ WHYNE 🦅🔥                    | djwhyne972@gmail.com                |
+| 247638218   | gracyhopkins                  | gracy hopkins                  | hellogracyhopkins@gmail.com         |
+| 11417587909 | gotha_alliance                | Gotha Alliance                 | gothaalliance@gmail.com             |
+| 180580074   | aleclvn                       | Alec                           | aleclvn@elevated.fr                 |
+| 1525277729  | didistone                     | DIDI-STONE                     | mariama@bureaunoir.co               |
+| 270085257   | _honeyshay                    | Honeyshay 🍯🌸                   | honeyshaynapro@gmail.com            |
+| 3421872666  | bykartwork                    | BYKARTWORK                     | bykartwork@gmail.com                |
+| 259975564   | adjinaya                      | EL PROFESSOR 👩🏾‍🎨              | contact@adjinaya.com                |
+| 534427077   | oswaldsxm                     | Oswald SXM                     | obasberlin@yahoo.fr                 |
+| 4735132421  | staya6z                       | Petio Staya 🇷🇪                 | petiostaya@gmail.com                |
+| 178837386   | stony_musik                   | Stony Officiel                 | stonyagency@gmail.com               |
+| 4565366944  | prodbymarcus                  | MARCUS                         | marcusproducer@gmail.com            |
+| 1829010345  | musicfeelings_blog            | Musicfeelings.                 | onesteevyinlifetime@live.fr         |
+| 298901187   | singuilaofficiel              | Singuila                       | veda80@hotmail.com                  |
+| 1830180798  | moncliche                     | Elegant Boy⭐️|Billboard Zoma   | igloogvng@gmail.com                 |
+| 296158045   | zoulou_boy                    | Dito J. PEDRO                  | pedro.benedito@hotmail.fr           |
+| 23820191    | kreezyozah                    | 𝐊𝐫𝐞𝐞𝐳𝐲 𝐃𝐞 𝐃egz🗽                | kevin@littleinfluenceragency.com    |
+| 175023396   | dofmusic                      | Dof' | 🎤                       | dofturnermusic@gmail.com            |
+| 508193495   | daneyakan                     | Daaane                         | daneyakan.contact@gmail.com         |
+| 26974283    | chvpito                       | Chapo👹                         | chvpito@gmail.com                   |
+| 8324662434  | tetonsmarrons                 | Tétons Marrons                 | contact@tetonsmarrons.com           |
+| 1475895465  | brvmsoo_ladeb                 | NO PAIX 🥷🏾👎🏾📦🔋                 | bricewilliam14@gmail.com            |
+| 55474951    | atim_212                      | Atim                           | atim212contacts@gmail.com           |
+| 364597774   | milancmusic                   | Milan C.                       | contact.milanc@gmail.com            |
+| 236575883   | margi_topboy                  | MarginaL                       | margifavela@outlook.fr              |
+| 26137367    | pompis_97                     | POMPIS DEH YAH                 | oliviermanage@gmail.com             |
+| 18917435    | riddla97_de_mariegalante      | Le RID'  ♦️ #riddla #lerid     | leridpadpanik@gmail.com             |
+| 2670545506  | moon_and_sugar                | 📩moonandsugar@gmail.com        | moonandsugar@gmail.com              |
+| 217230395   | alyneah                       | Aline                          | fitbyaline@gmail.com                |
+| 747260524   | iamsaifa                      | SAÏFA \ BOOGIE                 | saifa.arsene@gmail.com              |
+| 292019495   | tiitof_sparta                 | Tiitof Sparta b32              | tiitofsparta@gmail.com              |
+| 10994172865 | bestar.music                  | ⒷⒺⓈⓉⒶⓇ 🌟                       | musicbestar@gmail.com               |
+| 194949021   | benny972_                     | 🎥Benny 🎦                       | yazagency.influence@gmail.com       |
+| 511993444   | samsuchiwa                    | Sam's | Moussa Mansaly         | sams.promanagement@gmail.com        |
+| 50257205    | nemirnems                     | Nemir Nems                     | nemirmc66@gmail.com                 |
+| 1250865646  | bet_uk                        | BET UK                         | betunitedkingdom2020@gmail.com      |
+| 20951960    | nadjer                        | ɴᴀᴅᴊᴇʀ • ناجار                 | nadjer.aboubakari@sonymusic.com     |
+| 1539954033  | azilizcosmetics               | Aziliz-Zara                    | aziliz.partenariat@gmail.com        |
+| 17751687    | seysey_prod                   | SEYSEY                         | contact@seyseyprod.com              |
+| 4223787871  | assa.traore_                  | Assa Traore                    | assatraore@hotmail.fr               |
+| 348823511   | dj_myst_la_legende_           | Dj Myst aka la legende         | mystape@gmail.com                   |
+| 2977215842  | wumblabel                     | 📀 Wumb Label 📀                 | blaiseleseul@yahoo.fr               |
+| 30671090    | lorenzbaby                    | 𝘓𝘰𝘳𝘦𝘯𝘻                         | lorenzfwi@gmail.com                 |
+| 431314341   | awaimaniofficiel              | A W A   I M A N I              | awaimani.partenariat@gmail.com      |
+| 173673325   | jay_asani                     | Empress 🌶                      | jess.peraste@gmail.com              |
+| 463862289   | fatouguineaa                  | Fatou Guinea Kaba              | fatouguinea@smileconseil.com        |
+| 299905446   | kamarajustine                 | J U S T I N E   K A M A R A    | justine@spootnik-celebrities.com    |
+| 42046637    | karinegatibelza               | Karine Gatibelza               | makeupbox@hotmail.fr                |
+| 1299441726  | carinachatel                  | C A R I N A   C H Â T E L      | me@carinachatel.com                 |
+| 405446237   | laconi_hitmaker               | ʟᴀᴄᴏɴɪ ʜɪᴛᴍᴀᴋᴇʀ                | dj-laconi@hotmail.fr                |
+| 1007038593  | mataa_ls                      | Mata 🦁                         | karmamusicstaff@gmail.com           |
+| 254271420   | tstone_officiel               | T-STONE                        | Jonathan.management@yahoo.com       |
+| 873364990   | benjnegmarrons                | BEN-J                          | benjpc@gmail.com                    |
+| 319888177   | kathshup                      | Kathleen                       | clemenceau.k@gmail.com              |
+| 270438434   | matieuwhite                   | 🦇                              | matieuwhite@gmail.com               |
+| 2264116157  | dory_music1                   | Dory Dory                      | dory.contactmusicpro@gmail.com      |
+| 273814236   | salomejetaime                 | SALOMÉ                         | salome@firstbusinessinfluence.com   |
+| 1509138240  | officialinnossb               | INNOSS’B                       | innossbooking@gmail.com             |
+| 235096042   | curtiskanezoe                 | Curtis Kane                    | titiskane@gmail.com                 |
+| 484695538   | goldn.b_                      | 𝙶𝙾𝙻𝙳𝙽.𝙱✨                       | goldn.b.music@gmail.com             |
+| 418767539   | tucogadamn                    | Nathanael « TUCO » Beausivoir  | 824rec@gmail.com                    |
+| 248352461   | kevniofficiel                 | MOB$TA                         | Booking.kevni@gmail.com             |
+| 205090456   | samumtiti                     | Samuel Umtiti                  | contact@samumtiti.com               |
+| 175826805   | rachelleallisonhd             | Rachelle Allison 🔮             | rachelleallisonhd@gmail.com         |
+| 1812419256  | primerolodc                   | Primero                        | primero.lodc@gmail.com              |
+| 19703832481 | ted.mrs                       | TED 🐻 | ManBoy                 | teddy@soeuretteproductions.com      |
+| 11800183679 | decolonisonsnous              | Décolonisons Nous              | decolonisonsnous@gmail.com          |
+| 2084403476  | sayszofficiel                 |                                | icvremusic@gmail.com                |
+| 1441207729  | chichofficiel                 | CHICH 🇩🇪                       | chichomicrophone@yahoo.fr           |
+| 183963518   | rich_cave                     | Richard Cave                   | kaimizik@gmail.com                  |
+| 207113945   | steevenjyz                    | Steeven Jean Yves Zamor        | steevangel@hotmail.com              |
+| 26090691    | moodymike                     | Dj Moody Mike                  | Moodymike.contact@gmail.com         |
+| 2533295785  | hos_copperfield               | Hös Copperfield                | contact.hoscopperfield@gmail.com    |
+| 2577485848  | hansdax                       | Hans Dax                       | hans_2511@hotmail.com               |
+| 195745754   | brinowit                      | Brian                          | brinowit@gmail.com                  |
+| 378412921   | jamescloud_                   | ☀️MONSIEURJAMES                | business@azula.cf                   |
+| 175655914   | magistralbeats                | Magistral 💿                    | magistral.beats@gmail.com           |
+| 48068272    | skysojutsu                    | Skyso                          | skysojutsu@gmail.com                |
+| 28566742    | ydnarphoto                    | Ydnarphoto Officiel            | booking.ydnarphoto@gmail.com        |
+| 6881008     | shortylavie                   | Shorty                         | shortylavie@gmail.com               |
+| 52826366    | jessy_g6                      | GAOULÉ                         | contact@jsy-studios.com             |
+| 17177463    | alexisonestas                 | Alexis Onestas | Entrepreneur  | alexis@omaxcapital.fr               |
+| 1909624981  | diyagoldenhairr               | WIG ARTIST N SPECIALIST        | diarrapro@live.fr                   |
+| 358155837   | iamchris.ka                   | Major                          | hyypezup.contact@gmail.com          |
+| 701708563   | bigdaddyjok                   | Jok'Air                        | ismakaparis@gmail.com               |
+| 51541694    | matlebuzz                     | Mat Le Buzz                    | matlebuzz@gmail.com                 |
+| 467229760   | directedbywt                  | William Thomas 🎥🎥              | compteprowilliam@hotmail.fr         |
+| 332000099   | icosqua                       | ICO                            | ico@squamour.com                    |
+| 17315274    | djendrixx                     | Endrixx                        | endrixx.p@gmail.com                 |
+| 2325491712  | ddsaintprix                   | Dédé Saint-Prix                | ddsaintprix@yahoo.fr                |
+| 11935771595 | activiste.shatta              | ACTIVISTE SHATTA               | activiste.shatta@gmail.com          |
+| 243977804   | kiddyskur                     | Kiddynho                       | studio.mostwantedcorp@gmail.com     |
+| 3073332691  | johncoachparis                | 💥JohnCoachParis💥               | contact@johncoachparis.com          |
+| 225659723   | mikaben509                    | Mikaben                        | booking@mikaben.com                 |
+| 50398565    | titof_omp                     | Titof Omp                      | titof@opusmusicproduction.com       |
+| 176633564   | laroseofficiel                | Laℜose 🥀                       | booking.primera@gmail.com           |
+| 288262820   | djeladji                      | Ð J  Σ L A Ð J I   #ᕈɾoᑯᥙᥴtɩoᥒ | djeladji.booking@gmail.com          |
+| 9622832487  | cequecheveux                  | CeQueCheveux 🌟                 | Cequecheveux@thepalm-agency.com     |
+| 313041973   | djkillerz972                  | Dj KillerZ                     | djkillerzbooking@gmail.com          |
+| 276498725   | onlybells_                    | Bella Michelle                 | bella@insanityhq.com                |
+| 1719463705  | cleeveland.e                  | 🔶𝗖𝗟𝗘𝗘𝗩𝗘𝗟𝝠𝗡𝗗🔸🆃🅰︎🅽🅸🅰︎  🧜🏽‍♀️     | Cleeveland@thepalm-agency.com       |
+| 227537994   | kelly_canavy                  | Kelly CANAVY                   | inspires.cop@gmail.com              |
+| 419821447   | kenvybz_officiel              | G-SIDE | STEREOSONIC           | kenvybz10@gmail.com                 |
+| 180088409   | hugo_dans_la_radio            | HUGO                           | hugo@nrjantilles.com                |
+| 1226080910  | tmatt440                      | Tmatt440                       | Tmattmanagement@gmail.com           |
+| 1661825553  | navypbw                       | NAVY                           | paul@prettyboyrecords.com           |
+| 7405670169  | grand_moniteur_de_paris       | Grand Moniteur de Paris        | gmp.paris75@gmail.com               |
+| 7421595599  | iamkaribbean                  | I Am Karibbean                 | iamkaribbean@gmail.com              |
+| 37569499    | yolauvideo                    | Youri Lauriette                | youri.lauriette@gmail.com           |
+| 1706427915  | spectasayso                   | Specta F.B aka le Préfet       | spectakilla-972@hotmail.fr          |
+| 247518308   | djskamofficiel                | DJ SKAM                        | djskamofficiel@gmail.com            |
+| 234551443   | alexkby                       | Alex K-by                      | managementalexkby@gmail.com         |
+| 269843529   | fannyjofficiel                | FANNY J                        | rolyane.tacita@gmail.com            |
+| 706825768   | tito97_2                      | TurnOn Agency📩                 | turnonmanagement@gmail.com          |
+| 1401187155  | yannickcomselcrew             | Yannick Comsel 🐻🌟⚡             | lionel97214@hotmail.com             |
+| 20274698    | dromartelly                   | Dr0oo | Drø FKA T-Micky        | bookings@atachemusicgroup.com       |
+| 2244883542  | trace_caribbean               | TRACE Tropical                 | vgilles@trace.tv                    |
+| 1580201171  | le_montagnard_                | Pheel Le Montagnard            | pheelpambou@gmail.com               |
+| 508114682   | vegedream                     | Vegedream                      | vegedreamsynesia@gmail.com          |
+| 540970105   | kenrick_bering                | FITNESS & LIFESTYLE            | kenrick.bering@gmail.com            |
+| 26965756    | marvinmmr                     | Marvin                         | mmrmarvin@gmail.com                 |
+| 1540401020  | defj972                       | Def J OVLN                     | def.special.insta@gmail.com         |
+| 33533313    | kheiron_                      | Kheiron                        | 60minutesaveckheiron@gmail.com      |
+| 54377768    | bobiproduction                | bobiproduction                 | bobiprodofficiel@gmail.com          |
+| 377437011   | titoffofficiel                | Titoff                         | totoff18@me.com                     |
+| 1163200749  | shenseea                      | SHENYENG 🐉                     | romeichentertainment@gmail.com      |
+| 202962851   | jdafrenchie                   | 𝕵𝖚𝖑𝖎𝖊𝖓 𝐄𝐬𝐬𝐨𝐦𝐞                  | ju-essome@hotmail.com               |
+| 1590847663  | nweworldwide                  | NWE                            | nwenjaillement@gmail.com            |
+| 271241170   | kryssyofficiel                | Iambadcendrillon               | contact.musicone972@gmail.com       |
+| 7984201985  | artistic_empirespublic        | 🤳 ARTISTIC EMPIRES🤳            | artisticempirespublic@gmail.com     |
+| 6197658929  | tanyastval.officiel           | Tanyastval                     | nettyprodmanagement@gmail.com       |
+| 48801522    | jb_guitare_oh                 | Jb OH                          | guitareoriginal@gmail.com           |
+| 36052362    | wilaime                       | Wil Aime                       | wilaime@chaquedetail.fr             |
+| 28246597    | deedykowofficial              | DEEDYKOW Official 🦋            | deedykowr.management@gmail.com      |
+| 50291568    | seedjay_officiel              | Seedjay                        | seedjaycontact@gmail.com            |
+| 2043698650  | d.lova_muzik                  | 🎶 D.Lova 🎶                     | management.dlova@gmail.com          |
+| 1835355884  | redboyfr                      | Red Boy                        | media@redboy.fr                     |
+| 1143960877  | queen_mina_beauty             | QUEEN MINA                     | queenminabeauty@gmail.com           |
+| 3680439211  | morganetheresinemw            | Morgane Thérésine ☀️           | contact@morganetheresine.com        |
+| 182197298   | lorianezacharie               | L☀️RIANE  ZACHARIE             | lorianezachariemizik@gmail.com      |
+| 51736226    | jairoofficiel                 | djjairoofficiel                | jairo.romelle@gmail.com             |
+| 1074580421  | ninesevenpictures             | Nine Seven Pictures 🎥🎬         | contact@nine-seven-pictures.com     |
+| 229817250   | viana_photography             | Viana Photography              | contact@viana-photography.com       |
+| 13720075    | joemacguffin                  | Joe                            | joey.augustinien@gmail.com          |
+| 1694892145  | bramsitoofficiel              | Bramsito7                      | prod9145@gmail.com                  |
+| 310832923   | maelprince                    | Maël Caloc                     | maelcaloc@yahoo.fr                  |
+| 24115163    | admiralt971                   | ADMIRAL T                      | admiral971@gmail.com                |
+| 24115553    | g6kcampbell                   | Jessica Campbell               | admiral971@gmail.com                |
+| 1576956621  | frenchplug_                   | French Plug                    | frenchplugteam@gmail.com            |
+| 188343740   | imfrenchbaloo                 | French Baloo aka L’oracle      | lebalooshow@gmail.com               |
+| 1436859892  | iamcardib                     | Cardi B                        | dwikiryslamyo@gmail.com             |
+| 53657478    | jewel_usain                   | Jewel Usain                    | jewelusain9901@gmail.com            |
+| 270934011   | floracoquerel                 | Flora Coquerel                 | floracoquerelinfo@gmail.com         |
+| 257580584   | debrouya_                     | Debrouya                       | debrouya.booking@gmail.com          |
+| 569409845   | tkimpgeeofficial              | T Kimp Gee                     | t-kimp971@hotmail.fr                |
+| 634572781   | rodman973                     | Rodman 🎤📹                      | rodman@thepalm-agency.com           |
+| 31484488    | keros_n                       | Keros-n officiel               | jutsumediagroup@gmail.com           |
+| 18724839    | rokhayadiallo                 | Rokhaya Diallo                 | contact@rokhayadiallo.com           |
+| 365804084   | dasha_mizik                   | Dasha                          | scesarine.l@gmail.com               |
+| 249227741   | ainaquach                     | 🌺AINA QUACH🌺                   | ainaquachmusic@gmail.com            |
+| 2932231249  | claudysiar                    | Claudy Siar                    | erick.siar@yahoo.fr                 |
+| 205660487   | jperryofficial                | jperryofficial 🇭🇹              | jperrymp3@gmail.com                 |
+| 45410824    | jean_yo                       | jean_yo                        | jeanyonight@gmail.com               |
+| 146164790   | phyllisiaross                 | Phyllisia Ross                 | PhyllisiaRossMizik@gmail.com        |
+| 234893933   | guyanela1ere                  | ♥ Guyanela1ere ♥               | com.guyane@francetv.fr              |
+| 1057303486  | tropiquesfm                   | TROPIQUES FM                   | contact@tropiquesfm.com             |
+| 1413221959  | thereallycinaisjean           | Lycinaïs Jean                  | lycinais.jean@gmail.com             |
+| 359591607   | parisivincent                 | Vincent Parisi                 | parisiv@bein.net                    |
+| 23393141    | warrenofficiel                | WARREN-OFFICIEL                | rolyane.tacita@gmail.com            |
+| 7062073     | mikesainto                    | Mike Saint                     | msaintau@gmail.com                  |
+| 26524425    | xman972                       | X-MAN                          | vee@linkuplagence.com               |
+| 1265071851  | aydenland                     | Ayden Prod                     | caneline18@hotmail.com              |
+| 287030398   | oumardiaw                     | Oumar Diaw                     | o.diaww@gmail.com                   |
+| 173969777   | bissonsandra                  | Work smart 😉 Play smart 😁      | bissonsandraoff@gmail.com           |
+| 233224613   | princesslofficiel             | 𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐒 𝐋𝐎𝐕𝐄𝐑                 | staffprincesslover@gmail.com        |
+| 19276752    | ludivineretory                | LUDY💋                          | pro.ludivine@sublimetalents.com     |
+| 450699480   | rcimartinique                 | RCI Martinique                 | secretariat972@rcigroup.fr          |
+| 9602506     | esykennenga                   | E.sy Kennenga                  | defgmusic@gmail.com                 |
+| 262422905   | alwiodesiree                  | Alwio                          | contact@alwiodesiree.com            |
+| 32534490    | misie_sadik_officiel          | MiSiÉ_SADiK                    | misie.sadik@gmail.com               |
+| 10625288    | guylaineclery                 | guylainemanager                | guylaineclery@gmail.com             |
+| 268108360   | florellemanda                 | Florelle Manda                 | fmanda@gmail.com                    |
+| 9798114     | kenedy_knd                    | Kenedy                         | kenedymusic@gmail.com               |
+| 14295247    | lynnsha                       | lynnsha                        | lynnshamanager@aol.com              |
+| 45702808    | tairomusic                    | TAÏRO                          | tairo.management@gmail.com          |
+| 146094145   | loisshine                     |                                | loisshinebook@gmail.com             |
+| 23965906    | iamsaikofficiel               | SAÏK                           | ebdb.ent@gmail.com                  |
+| 1131132     | kaysha2201                    | Kaysha                         | love@kaysha.com                     |
+| 173575331   | jahyanaiking                  | 𝗝𝗔𝗛𝗬𝗔𝗡𝗔𝗜 || 👑                  | jahyanaiking@gmail.com              |
+| 16390493    | vjlou                         | VJ LOU                         | vjlou01@gmail.com                   |
+| 29843272    | tracecaribbean                | TRACE Caraïbes                 | djo@trace.fm                        |
+| 212961388   | yoan_officiel                 | YOAN                           | officiel.yoan@gmail.com             |
+| 30985907    | shana_cesarion                | Ⲋⲏⲇⲛⲇ  𝗖𝗘𝗦𝗔𝗥𝗜𝗢𝗡                | shana.cesarion@gmail.com            |
+| 145960676   | by_leila_                     | Un Peu de Moi By Leila         | unpeudemoibyleila@gmail.com         |
+| 368912393   | nrjantilles                   | NRJ ANTILLES                   | nrjantilles@gmail.com               |
+| 32686848    | florianonair                  | Florian OnAir                  | florianonair94@gmail.com            |
+| 8821471     | salahshou                     | Salah-Eddine                   | salahgakou@yahoo.fr                 |
+| 263157681   | officielmethis                | Méthi'S                        | loholi@hotmail.com                  |
+| 178580810   | mainytouchofficiel            | Mainytouch                     | twmstudiorec@gmail.com              |
+| 49434383    | axeltonymusic                 | Axel Tony                      | axeltonybooking@gmail.com           |
+| 28340668    | wilowbeatz                    | Wilowbeatz                     | willowprod17@gmail.com              |
+| 12653726    | olkainry                      | Ol'Kainry                      | olkainry.management@gmail.com       |
+| 294392070   | krysofficiel                  | KRYS                           | muriel.lantin@gmail.com             |
+| 7442633     | tinalymusic                   | tinalymusic                    | tinalymanagement@gmail.com          |
+| 12353128    | jayzayyeazeah                 | Jayzay                         | julien.jay.floro@gmail.com          |
+| 505226295   | paille972                     | PAILLE                         | paille.agency@gmail.com             |
+| 13065134    | evabien11                     | Eva Bien 🇫🇷🇸🇳                  | eva_75011@yahoo.fr                  |
++-------------+-------------------------------+--------------------------------+-------------------------------------+
